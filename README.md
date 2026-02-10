@@ -20,6 +20,8 @@ Hi, I'm **Nadeem Chaudhary** 👨‍💻, a **MERN Stack Developer** who loves b
 
 </p>   
   
+## 🐍 Contribution Graph
+![Snake animation](https://github.com/devsparkn/devsparkn/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔥 Profile Visits:  
 <p align="center">
